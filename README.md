@@ -7,4 +7,4 @@ Modelo de Crud com PHP e MYSQL com inserção e exclusão de produtos
 - Abra o arquivo usando phpmyadmin usando seu servidor local.
 - Foi usado Wamp para criar servidor local.
 
-# Utilizado Bootstrap 4
+## Uso do Bootstrap 4
